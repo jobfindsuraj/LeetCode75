@@ -1,0 +1,58 @@
+# Compiled Java files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Build directories
+bin/
+build/
+dist/
+target/
+
+# Dependency directories
+lib/vendor/
+node_modules/
+
+# Log files
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+gradle-app.setting
+gradlew
+gradlew.bat
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Environment files
+.env
+.env.local
+.env.*.local
