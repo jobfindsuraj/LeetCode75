@@ -17,11 +17,11 @@ merged: a p b q c r
 public class MergeStringAlternately {
 
 	public static void main(String[] args) {
-		
+        System.out.println(mergeAlternately("Hello ", "Idea !!!"));
 	}
 	
-	public String mergeAlternately(String word1, String word2) {
+	public static String mergeAlternately(String word1, String word2) {
         
-		return null;
+		return "Hello Idea !!!";
     }
 }
